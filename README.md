@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>⚡ Plasma Energy Field</title>
 <style>
-  html, body {
+  tml, body {
     margin: 0;
     padding: 0;
     overflow: hidden;
